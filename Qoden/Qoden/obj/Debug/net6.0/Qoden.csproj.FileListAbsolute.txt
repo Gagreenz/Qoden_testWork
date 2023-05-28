@@ -1,0 +1,15 @@
+C:\Users\Gagreenz\source\repos\Qoden\Qoden\bin\Debug\net6.0\Qoden.exe
+C:\Users\Gagreenz\source\repos\Qoden\Qoden\bin\Debug\net6.0\Qoden.deps.json
+C:\Users\Gagreenz\source\repos\Qoden\Qoden\bin\Debug\net6.0\Qoden.runtimeconfig.json
+C:\Users\Gagreenz\source\repos\Qoden\Qoden\bin\Debug\net6.0\Qoden.dll
+C:\Users\Gagreenz\source\repos\Qoden\Qoden\bin\Debug\net6.0\Qoden.pdb
+C:\Users\Gagreenz\source\repos\Qoden\Qoden\obj\Debug\net6.0\Qoden.csproj.AssemblyReference.cache
+C:\Users\Gagreenz\source\repos\Qoden\Qoden\obj\Debug\net6.0\Qoden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gagreenz\source\repos\Qoden\Qoden\obj\Debug\net6.0\Qoden.AssemblyInfoInputs.cache
+C:\Users\Gagreenz\source\repos\Qoden\Qoden\obj\Debug\net6.0\Qoden.AssemblyInfo.cs
+C:\Users\Gagreenz\source\repos\Qoden\Qoden\obj\Debug\net6.0\Qoden.csproj.CoreCompileInputs.cache
+C:\Users\Gagreenz\source\repos\Qoden\Qoden\obj\Debug\net6.0\Qoden.dll
+C:\Users\Gagreenz\source\repos\Qoden\Qoden\obj\Debug\net6.0\refint\Qoden.dll
+C:\Users\Gagreenz\source\repos\Qoden\Qoden\obj\Debug\net6.0\Qoden.pdb
+C:\Users\Gagreenz\source\repos\Qoden\Qoden\obj\Debug\net6.0\Qoden.genruntimeconfig.cache
+C:\Users\Gagreenz\source\repos\Qoden\Qoden\obj\Debug\net6.0\ref\Qoden.dll
